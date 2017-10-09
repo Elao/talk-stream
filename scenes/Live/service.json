@@ -1,0 +1,8 @@
+{
+    "settings": {
+        "key": "jwzb-s2m8-bp3c-chy5",
+        "server": "rtmp://a.rtmp.youtube.com/live2",
+        "service": "YouTube / YouTube Gaming"
+    },
+    "type": "rtmp_common"
+}
